@@ -1,0 +1,2 @@
+https://uma.pop.umn.edu/cps/user/new
+https://usa.ipums.org/usa-action/variables/group/place_work
